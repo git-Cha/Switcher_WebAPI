@@ -81,4 +81,5 @@ by adding simpale entity card you can see:
 
 
 בהצלחה!
+
 תודה לדימה ולתומר  :)
