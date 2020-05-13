@@ -1,6 +1,6 @@
 #  Install Switcher WebAPI on hassio (vmware image)
 
-in order to work with containers on hassio, you need to install an official add on from the add-on store :
+in order to work with containers on hassio, you need to install an official add-on from the add-on store name Portainer :
 ![image](https://user-images.githubusercontent.com/61497622/81860682-bf343680-956f-11ea-9d49-b0fe16c081b3.png)
  
  after installtion complited, you need to disable Protection mode:
