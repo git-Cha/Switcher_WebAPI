@@ -1,7 +1,3 @@
-# Switcher_WebAPI
-installing switcher webapi on hassio environment
-
-
 #  Install Switcher WebAPI on hassio (vmware image)
 
 in order to work with containers on hassio, you need to install an official add on from the add-on store :
